@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/andres_gomez/blob/master/2018__gomez__prevalence_scaling_and_variance_of_urban_phenomena.pdf" >Cities, Collective Knowhow and Economic Development</a>
+  <a href="https://github.com/uchicago-computation-workshop/andres_gomez/blob/master/2018__gomez__prevalence_scaling_and_variance_of_urban_phenomena.pdf" >Cities, Collective Knowhow, and Economic Development</a>
 </h2>
 
 <br>

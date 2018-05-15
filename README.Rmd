@@ -12,7 +12,7 @@ library(stringr)
 
 date <- "5/17/2018"
 vendor <- "Papa Johns"
-title <- "Cities, Collective Knowhow and Economic Development"
+title <- "Cities, Collective Knowhow, and Economic Development"
 file_title <- "Prevalence Scaling and Variance
 of Urban Phenomena"
 short_title_n = 7
