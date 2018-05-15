@@ -16,7 +16,7 @@ output:
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Andres Gomez </h1>
-<h3 class=pfblock-header3> Postdoctoral Fellow at the Center for International Development </h3>
+<h3 class=pfblock-header3> Postdoctoral Fellow at the Growth Lab, Center for International Development </h3>
 <h3 class=pfblock-header3> Harvard University </h3>
 
 <br><br>
@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/andres_gomez/blob/master/2018__gomez__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/andres_gomez/blob/master/2018__gomez__prevalence_scaling_and_variance_of_urban_phenomena.pdf" >Cities, Collective Knowhow and Economic Development</a>
 </h2>
 
 <br>
@@ -37,7 +37,7 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** The challenges of economic development have typically been framed at the national level. However, cross-city differences in socioeconomic indicators within countries are, in general, greater than the cross-country differences. Moreover, the majority of people today live in cities, and their urban milieu largely determines their welfare. Therefore, there is a strong motivation to have deep scientific understandings of the underlying reasons for the differences across cities. In my research, the notion of “collective knowhow” is pivotal to understanding this problem, and the coupling of the fields of Urban Scaling, Economic Complexity, and Cultural Evolution is a necessary step to develop a theory of collective knowhow and its connection to urban economic development. I will present some of my own efforts in addressing these challenges, and show (1) a parsimonious model to explain some of the differences across cities, and across urban phenomena within cities, (2) ongoing work about a formalism to track and predict the accumulation of collective knowhow, and (3) an overview of projects where we have applied these insights to promote urban economic development in Colombian cities.
 </p>
 
 <br>
@@ -48,13 +48,13 @@ output:
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<p class=pfblock-header3>A light lunch will be provided by Papa Johns.</p>
 
 <br><br>
 
 <p class=footertext2>
 
-**Andres Gomez** TBD
+**Andres Gomez** is currently a postdoctoral fellow of the Growth Lab at the Center for International Development (CID) at Harvard University. Andres’ research is centered at understanding what cities are, how they work, and how come we observe wide differences in socioeconomic well-being across them. He holds a Ph.D. in Applied Mathematics from Arizona State University, a M.S. in Industrial Engineering and an undergraduate degree in Physics, both from La Universidad de los Andes. Since his doctoral studies, he has been part of the Cities, Scaling and Sustainability research group at the Santa Fe Institute. At CID, he is also part of the development team of the atlases of economic complexity for Colombia and Mexico. He has professional experience in the financial sector and public sector consulting.
 </p>
 
 
